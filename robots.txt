@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-sngtoi.indocuan.online/sitemap.xml
